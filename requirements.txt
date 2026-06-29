@@ -1,0 +1,23 @@
+# Core ML & Data
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Experiment Tracking
+mlflow
+
+# Hugging Face Ecosystem
+transformers
+datasets
+huggingface_hub
+
+# Parameter-Efficient Fine-Tuning
+peft
+unsloth
+
+# Deployment & Hosting
+gradio
+
+# Utilities
+python-dotenv
